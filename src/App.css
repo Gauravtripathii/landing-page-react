@@ -162,6 +162,30 @@ nav > ul a:hover {
   outline: none;
 }
 
+.About{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.About fieldset{
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.About>fieldset legend{
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
+.About>fieldset legend img{
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+
+
+
 @media only screen and (min-width: 992px) {
   nav {
     flex-direction: row;
