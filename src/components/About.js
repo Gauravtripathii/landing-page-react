@@ -3,7 +3,9 @@ import React from 'react';
 function About () {
     return(
         <div className="About">
-            Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+            <fieldset>
+                <legend></legend>
+            </fieldset>
         </div>
     );
 }
