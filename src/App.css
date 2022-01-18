@@ -212,6 +212,9 @@ nav > ul a:hover {
     width: 60%;
   }
 
+  .Contact{
+    padding-top: 0;
+  }
   .Contact > fieldset {
     margin-top: 35vh;
   }
